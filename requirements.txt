@@ -1,0 +1,14 @@
+streamlit
+langchain
+langgraph
+chromadb
+sentence-transformers
+arxiv
+python-dotenv
+tqdm
+pypdf
+groq
+python-pptx
+requests
+rich
+langchain-community
